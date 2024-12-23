@@ -34,7 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam7991&show_icons=true&locale=en&layout=compact" alt="satyam7991" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam7991&show_icons=true&locale=en" alt="satyam7991" /></p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=satyam7991&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam7991&" alt="satyam7991" /></p>
